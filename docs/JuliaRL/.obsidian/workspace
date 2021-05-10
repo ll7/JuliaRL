@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "285aede0e3751302",
+    "type": "split",
+    "children": [
+      {
+        "id": "423b7ca8e0501ea1",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "43e090cb21bd51de",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ff262dd9a6db328",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fce20e2e6e03f021",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5ac66a84dcf351eb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "14eb5c1548511946",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8986d767474b130",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5be991be1d8cc1c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "715ba855337e7a1b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "423b7ca8e0501ea1",
+  "lastOpenFiles": [
+    "Untitled.md"
+  ]
+}
