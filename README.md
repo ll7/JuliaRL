@@ -1,3 +1,3 @@
 # JuliaRL
 
-Package to create examine reinforcement learning in julia.
+Package to examine reinforcement learning in julia.
