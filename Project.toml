@@ -1,0 +1,4 @@
+name = "JuliaRL"
+uuid = "74cd0d42-4a4e-4222-a925-4275ccabde46"
+authors = ["Lennart Luttkus <lennart.luttkus@uni-a.de>"]
+version = "0.1.0"
